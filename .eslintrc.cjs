@@ -22,6 +22,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 'latest'
   },
+
   rules: {
     'no-shadow': 'off',
     '@typescript-eslint/no-shadow': 'error',

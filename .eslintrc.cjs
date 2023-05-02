@@ -23,7 +23,7 @@ module.exports = {
     ecmaVersion: 'latest'
   },
   rules: {
-    // 'no-shadow': 'off',
+    'no-shadow': 'off',
     '@typescript-eslint/no-shadow': 'error',
   }
 }
